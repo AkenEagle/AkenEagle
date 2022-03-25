@@ -4,7 +4,7 @@
 
 Full Stack Web Developer
 
-*&& sports cars passionate, cat lover, wanna-traveler, fashionista.*
+*&& sports cars passionate, cat lover, wanna-traveler, pizza lover.*
 
 ## portfolio
 

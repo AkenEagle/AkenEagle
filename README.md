@@ -12,17 +12,7 @@ Full Stack Web Developer
 
 ## skillset
 
-- React
-- Express
-- MySQL
-- noSQL
-- MongoDB
-- NodeJS
-- Web APIs
-- jQuery
-- JavaScript
-- CSS
-- HTML
+React, Express, MySQL, noSQL, MongoDB, NodeJS, Web APIs, jQuery, JavaScript, CSS, HTML
 
 ## contact
 

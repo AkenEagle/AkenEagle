@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**AkenEagle/AkenEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## whoami
 
-Here are some ideas to get you started:
+Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*&& sports cars passionate, cat lover, wanna-traveler, fashionista.*
+
+## portfolio
+
+[akeneagle.dev](https://akeneagle.dev)
+
+## skillset
+
+- React
+- Express
+- MySQL
+- noSQL
+- MongoDB
+- NodeJS
+- Web APIs
+- jQuery
+- JavaScript
+- CSS
+- HTML
+
+## contact
+
+- [LinkedIn](https://www.linkedin.com/in/harman-singh-7a749b159/)
+- [akeneagle@gmail.com](mailto:akeneagle@gmail.com)

@@ -17,4 +17,4 @@ React, Express, GraphQL, MySQL, noSQL, MongoDB, NodeJS, Web APIs, jQuery, JavaSc
 ## contact
 
 - [LinkedIn](https://www.linkedin.com/in/harman-singh-7a749b159/)
-- [akeneagle@gmail.com](mailto:akeneagle@gmail.com)
+- [hello@akeneagle.dev](mailto:hello@akeneagle.dev)
